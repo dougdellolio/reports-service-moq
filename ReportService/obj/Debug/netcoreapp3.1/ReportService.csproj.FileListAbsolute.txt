@@ -1,0 +1,8 @@
+C:\git\ReportService\ReportService\bin\Debug\netcoreapp3.1\ReportService.deps.json
+C:\git\ReportService\ReportService\bin\Debug\netcoreapp3.1\ReportService.dll
+C:\git\ReportService\ReportService\bin\Debug\netcoreapp3.1\ReportService.pdb
+C:\git\ReportService\ReportService\obj\Debug\netcoreapp3.1\ReportService.AssemblyInfoInputs.cache
+C:\git\ReportService\ReportService\obj\Debug\netcoreapp3.1\ReportService.AssemblyInfo.cs
+C:\git\ReportService\ReportService\obj\Debug\netcoreapp3.1\ReportService.csproj.CoreCompileInputs.cache
+C:\git\ReportService\ReportService\obj\Debug\netcoreapp3.1\ReportService.dll
+C:\git\ReportService\ReportService\obj\Debug\netcoreapp3.1\ReportService.pdb

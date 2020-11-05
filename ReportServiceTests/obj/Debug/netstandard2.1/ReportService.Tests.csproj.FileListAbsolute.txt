@@ -1,0 +1,12 @@
+C:\git\ReportService\ReportServiceTests\bin\Debug\netstandard2.1\ReportService.Tests.deps.json
+C:\git\ReportService\ReportServiceTests\bin\Debug\netstandard2.1\ReportService.Tests.dll
+C:\git\ReportService\ReportServiceTests\bin\Debug\netstandard2.1\ReportService.Tests.pdb
+C:\git\ReportService\ReportServiceTests\bin\Debug\netstandard2.1\ReportService.dll
+C:\git\ReportService\ReportServiceTests\bin\Debug\netstandard2.1\ReportService.pdb
+C:\git\ReportService\ReportServiceTests\obj\Debug\netstandard2.1\ReportService.Tests.csprojAssemblyReference.cache
+C:\git\ReportService\ReportServiceTests\obj\Debug\netstandard2.1\ReportService.Tests.AssemblyInfoInputs.cache
+C:\git\ReportService\ReportServiceTests\obj\Debug\netstandard2.1\ReportService.Tests.AssemblyInfo.cs
+C:\git\ReportService\ReportServiceTests\obj\Debug\netstandard2.1\ReportService.Tests.csproj.CoreCompileInputs.cache
+C:\git\ReportService\ReportServiceTests\obj\Debug\netstandard2.1\ReportService.Tests.csproj.CopyComplete
+C:\git\ReportService\ReportServiceTests\obj\Debug\netstandard2.1\ReportService.Tests.dll
+C:\git\ReportService\ReportServiceTests\obj\Debug\netstandard2.1\ReportService.Tests.pdb

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Moq" Version="4.14.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ReportService">
+      <HintPath>..\ReportService\bin\Debug\netcoreapp3.1\ReportService.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

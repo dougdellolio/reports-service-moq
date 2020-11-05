@@ -1,0 +1,13 @@
+C:\git\ReportService\ReportService\bin\Debug\netcoreapp3.0\ReportService.exe
+C:\git\ReportService\ReportService\bin\Debug\netcoreapp3.0\ReportService.deps.json
+C:\git\ReportService\ReportService\bin\Debug\netcoreapp3.0\ReportService.runtimeconfig.json
+C:\git\ReportService\ReportService\bin\Debug\netcoreapp3.0\ReportService.runtimeconfig.dev.json
+C:\git\ReportService\ReportService\bin\Debug\netcoreapp3.0\ReportService.dll
+C:\git\ReportService\ReportService\bin\Debug\netcoreapp3.0\ReportService.pdb
+C:\git\ReportService\ReportService\obj\Debug\netcoreapp3.0\ReportService.csprojAssemblyReference.cache
+C:\git\ReportService\ReportService\obj\Debug\netcoreapp3.0\ReportService.AssemblyInfoInputs.cache
+C:\git\ReportService\ReportService\obj\Debug\netcoreapp3.0\ReportService.AssemblyInfo.cs
+C:\git\ReportService\ReportService\obj\Debug\netcoreapp3.0\ReportService.csproj.CoreCompileInputs.cache
+C:\git\ReportService\ReportService\obj\Debug\netcoreapp3.0\ReportService.dll
+C:\git\ReportService\ReportService\obj\Debug\netcoreapp3.0\ReportService.pdb
+C:\git\ReportService\ReportService\obj\Debug\netcoreapp3.0\ReportService.genruntimeconfig.cache
